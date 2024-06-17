@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 - 👋 Hi, I’m @Gabrielshow
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning various backend technologies which include Elixir, Go, Ruby, Django and Flask
