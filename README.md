@@ -6,3 +6,4 @@
 - 📫 You can reach me: adefelashogbanmu@gmail.com, https://my-portfolio-seven-sigma-20.vercel.app/, https://second-portfolio-animate-css.vercel.app/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love to code 24/7
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielshow)](https://github.com/Gabrielshow/github-readme-stats)
