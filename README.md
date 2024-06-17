@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gabrielshow
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning various backend technologies which include Elixir, Go, Ruby, Django and Flask
-- 💞️ I’m looking to collaborate on various Full-stack and Software developments
-- 📫 You can reach me: adefelashogbanmu@gmail.com, https://my-portfolio-seven-sigma-20.vercel.app/
+- 💞️ I’m looking to collaborate on various Full-stack and Software development Projects
+- 📫 You can reach me: adefelashogbanmu@gmail.com, https://my-portfolio-seven-sigma-20.vercel.app/, https://second-portfolio-animate-css.vercel.app/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love to code 24/7
 
