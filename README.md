@@ -5,3 +5,4 @@
 - 📫 You can reach me: adefelashogbanmu@gmail.com, https://adefela.vercel.app/, https://Gabrielshow.vercel.app/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love to code 24/7
+- 🐐Proud to be a Taurus♉ 
