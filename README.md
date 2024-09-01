@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on various Full-stack and Software development Projects
 - 📫 You can reach me: adefelashogbanmu@gmail.com, https://adefela.vercel.app/, https://Gabrielshow.vercel.app/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love to code 24/7
+- ⚡ Fun fact: Love to code 24/7, Am a Lisper and finally a bloody Leeter! 
 - 🐐Proud to be a Taurus♉ 
