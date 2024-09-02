@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabrielshow
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning various backend technologies which include Django, Elixir, Flask, Go, Ruby on Rails, .Net and Yesod
+- 🌱 I’m currently learning various backend technologies which include Django, Elixir(Phoenix), Flask, Go(Gin and Gonic), Rust(Rocket and Actix), Ruby on Rails, Yesod and .Net framework 
 - 💞️ I’m looking to collaborate on various Full-stack and Software development Projects
 - 📫 You can reach me: adefelashogbanmu@gmail.com, https://adefela.vercel.app/, https://Gabrielshow.vercel.app/
 - 😄 Pronouns: He/Him
