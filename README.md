@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png
+![Header](./github-header-image.png
 - 👋 Hi, I’m @Gabrielshow
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning various backend technologies which include Python(Django and Flask), Elixir(Phoenix), Go(Gin and Gonic), Rust(Rocket and Actix), Ruby(Ruby on Rails), Haskell(Yesod) and C#(.Net Core) 
