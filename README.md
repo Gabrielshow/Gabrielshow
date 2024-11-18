@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 - 👋 Hi, I’m @Gabrielshow
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning various backend technologies which include Python(Django and Flask), Elixir(Phoenix), Go(Gin and Gonic), Rust(Rocket and Actix), Ruby(Ruby on Rails), Haskell(Yesod) and C#(.Net Core) 
+- 🌱 I’m currently learning various backend technologies which include Python(Django and Flask), Elixir(Phoenix), Go(Gin and Gonic), Rust(Rocket and Actix), Ruby(Ruby on Rails and Sinatra), Haskell(Yesod) and C#(.Net Core) 
 - 💞️ I’m looking to collaborate on various Full-stack and Software development Projects
 - 📫 You can reach me: adefelashogbanmu@gmail.com, https://adefela.vercel.app/, https://Gabrielshow.vercel.app/
 - 😄 Pronouns: He/Him
